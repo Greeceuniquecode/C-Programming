@@ -1,4 +1,4 @@
-// this is programmed by a expert certified programmer of .exe company with many working experience hour
+// simple data address program
 #include <stdio.h>
 #include <conio.h>
 void main()
@@ -8,3 +8,4 @@ void main()
     printf("%d", a);
     printf("%d", &a);
 }
+//follow Greeceuniquecode for more uniq code..

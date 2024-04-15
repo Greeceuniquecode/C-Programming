@@ -1,4 +1,4 @@
-// by expert programmer from kathmandu pulchowk
+// simple program to find the sum of two digits
 #include <stdio.h>
 #include <conio.h>
 int main()
@@ -10,4 +10,4 @@ int main()
     printf("%d", sum);
     return 0;
 }
-// simple program to find sum of 2 number
+// follow greeceuniquecode for more freshly code

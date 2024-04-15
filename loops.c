@@ -1,4 +1,4 @@
-// this is a loop code coded by a pro computer programmmer with google certificate mr Greece Dahal
+// this is a loop code coded by greeceuniquecode
 #include <stdio.h>
 #include <conio.h>
 void main()
@@ -27,3 +27,4 @@ void main()
     }
 }
 // the END OF LOOP
+

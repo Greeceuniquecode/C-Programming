@@ -1,7 +1,6 @@
-// this is a program done by a pro official google certified programmer named Greece Dahal
+// to find if the inputed number is positve, negative odd or even
 #include <stdio.h>
 #include <conio.h>
-// euta number halnu parne tyo number positive or negative or odd ki tw even
 void main()
 {
     int a;
@@ -32,4 +31,4 @@ void main()
         }
     }
 }
-// okay the program is done with highly specilaized programmer logic with cool syntax
+// follow greeceuniquecode at github for more freshly brewed content 

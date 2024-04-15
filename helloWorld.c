@@ -6,4 +6,4 @@ void main()
     printf("hello world");
     getch();
 }
-// this is a program by a expert programmer hope you like it
+// follow greeceuniquecode for more codes
